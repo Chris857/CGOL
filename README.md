@@ -6,4 +6,6 @@ A collection of synthesis components intended to be useful for synthesizing stil
 
 Organization is still a work in progress, but is roughly sorted into still lifes, oscillators, and active regions (such as LOM, R-pentomino, etc.).
 
+The overall collection is saved in LifeHistory. For each synthesis, there is a collection of state 1 gliders and XWSSes with a state 4 display of the final resulting pattern. To the right shows the reaction envelope of the synthesis, at a fixed number of generations later indicated for each synthesis (typically a multiple of 40 generations i.e. 40gen, 80gen, 120gen, etc.).
+
 Feel free to use these syntheses for any purpose.
